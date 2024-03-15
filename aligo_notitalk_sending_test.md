@@ -1,7 +1,7 @@
 # 알리고 카카오 알림톡 발신 테스트
 > 아래 이미지 대로 진행하면 됨
 
-![알리고 알림톡 발신 테스트 파워오토메이트 캡처 이미지]()
+![알리고 알림톡 발신 테스트 파워오토메이트 캡처 이미지](assets/aligo_notitalk_sending.jpg)
 
 ### [알리고 알림톡 API 메뉴얼](https://smartsms.aligo.in/shop/kakaoapispec.html)
 
