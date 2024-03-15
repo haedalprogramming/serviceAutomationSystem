@@ -40,3 +40,4 @@
 ```
 apikey=000&userid=000&token=000&senderkey=000&tpl_code=000&sender=000&receiver_1=000&&subject_1=000&message_1=000
 ```
+현재 구조에선 `token` 에 `urlencode` 넣어야 함
