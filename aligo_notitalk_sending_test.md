@@ -1,7 +1,7 @@
 # 알리고 카카오 알림톡 발신 테스트
 > 아래 이미지 대로 진행하면 됨
 
-![알리고 알림톡 발신 테스트 파워오토메이트 캡처 이미지]()
+![알리고 알림톡 발신 테스트 파워오토메이트 캡처 이미지](assets/aligo_notitalk_sending.jpg)
 
 ### [알리고 알림톡 API 메뉴얼](https://smartsms.aligo.in/shop/kakaoapispec.html)
 
@@ -40,3 +40,4 @@
 ```
 apikey=000&userid=000&token=000&senderkey=000&tpl_code=000&sender=000&receiver_1=000&&subject_1=000&message_1=000
 ```
+현재 구조에선 `token` 에 `urlencode` 넣어야 함
